@@ -1,2 +1,0 @@
-# salesforceDevops
-SFDX devops study
